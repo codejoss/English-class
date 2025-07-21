@@ -39,4 +39,7 @@ H - Cuando va al inicio y le sigue una voical suena como  J»
 
 Honor , Honest, la H no se pronuncia, es muda
 
-J - 
+J -
+
+Special
+Stress
